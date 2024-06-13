@@ -1,0 +1,18 @@
+/*Palvelut sivun css*/
+#tapetointi, #maalaus {
+    width: 30%;
+    height: 300px;
+    border: 1px black solid;
+    background-color: #D69C2F;
+}
+#tapetointi h2, #maalaus h2 {
+    font-size: 16px;
+}
+#tapetointi h3, #maalaus h3 {
+    font-size: 14px;
+}
+#palvelutOsio {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

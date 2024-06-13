@@ -1,0 +1,151 @@
+/*Koti sivun, footerin ja globaali css*/
+/*Home page*/
+#nextButton, #backButton {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+#gallery {
+    position: relative;
+    margin-bottom: 5rem;
+}
+#galleryImage {
+    width: 80%;
+}
+#smallInfoBox {
+    margin-top: 4rem;
+    font-size: 12px;
+}
+.navbar-brand {
+    font-size: 20px;
+}
+/*Footer*/
+footer {
+    border-top: black 1px solid;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 2rem;
+    margin-top: 4rem;
+}
+#pageContainer {
+    min-height: 90vh;
+}
+#footerRow {
+    margin-top: 4rem;
+}
+footer ul li {
+    list-style: none;
+}
+/* Site wide */
+* {
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+/*Gallery page
+#centerImage {
+    width: 1000px;
+    height: 667px;
+}
+#imageBottom1, #imageBottom2, #imageBottom3 {
+    margin-top: 2rem;
+    margin-left: 3.3rem;
+}
+@media (min-width: 100px) {
+    #centerImage {
+        width: 480px;
+        height: auto;
+        
+    }
+}
+@media (min-width: 768px) {
+    #centerImage {
+        width: 768px;
+        height: auto;
+    }
+}
+@media (min-width: 992px) {
+    #centerImage {
+        width: 768px;
+        height: auto;
+    }
+}
+@media (min-width: 1200px) {
+    #centerImage {
+        width: 1000px;
+        height: auto;
+    }
+}
+@media (min-width: 100px) {
+    #imageBottom1, #imageBottom2, #imageBottom3{
+        width: 200px;
+        height: auto;
+        
+    }
+}
+@media (min-width: 768px) {
+    #imageBottom1, #imageBottom2, #imageBottom3 {
+        width: 205px;
+        height: 136px;
+        
+    }
+}
+@media (min-width: 992px) {
+    #imageBottom1, #imageBottom2, #imageBottom3 {
+        width: 225px;
+        height: 150px;
+        
+    }
+}
+@media (min-width: 1200px) {
+    #imageBottom1, #imageBottom2, #imageBottom3 {
+        width: 300px;
+        height: 200px;
+        
+    }
+}*/
+/*Color picker page
+@media (min-width: 100px) {
+    #wall1, #wall2 {
+        width: 200px;
+        height: 200px;
+        margin: 10px;
+        display: inline-block;
+    }
+}
+@media (min-width: 768px) {
+    #wall1, #wall2 {
+        width: 300px;
+        height: 300px;
+        margin: 10px;
+        display: inline-block;
+    }
+}
+@media (min-width: 992px) {
+    #wall1, #wall2 {
+        width: 400px;
+        height: 400px;
+        margin: 10px;
+        display: inline-block;
+    }
+}
+@media (min-width: 1200px) {
+    #wall1, #wall2 {
+        width: 500px;
+        height: 500px;
+        margin: 10px;
+        display: inline-block;
+    }
+}
+#wallToggle {
+    width: 50px;
+    height: 50px;
+}
+.colorButton {
+    height: 70px;
+    border: none;
+    margin: 5px;
+    width: 100px;
+    font-size: 12px;
+}*/
